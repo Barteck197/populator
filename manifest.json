@@ -1,0 +1,7 @@
+{
+  "name": "populator",
+  "id": "946872406670471260",
+  "api": "1.0.0",
+  "main": "code.js",
+  "ui": "ui.html"
+}
